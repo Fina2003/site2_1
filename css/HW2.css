@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+    margin: 40px;
+}
+header{
+    font-family:"Segoe UI", Arial, sans-serif;
+}
+section{
+    font-family:"Segoe UI", Calibri, sans-serif;
+    font-size: 20px;
+}
+footer{
+    margin-top: 50px;
+    font-size: 17px;
+}
